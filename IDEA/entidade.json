@@ -1,0 +1,25 @@
+{
+  "name": "Evandro",
+  "account": {
+    "number": "00000000-0",
+    "agency": "0000",
+    "balance": 1324.64,
+    "limit": 1000.0
+  },
+  "features": [
+    {
+      "icon": "",
+      "descripiton": "PIX"
+    }
+  ],
+  "card": {
+    "number": "xxx xxx xxx 0000",
+    "limit": 1000.0
+  },
+  "news": [
+    {
+      "icon": "URL",
+      "description": "O santander tem soluções de crédito sob medida para você."
+    }
+  ]
+}
