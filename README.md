@@ -36,3 +36,5 @@ classDiagram
     Person "1"*-- "1..N" News
 
 ```
+
+conectando ao postegres usando https://railway.app/
