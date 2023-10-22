@@ -1,5 +1,7 @@
 # santander-dev-week-2023
 
+## Para acessar a API: https://santander-dev-week-2023-production-c46e.up.railway.app/swagger-ui/
+
 ## diagrama de classes
 
 ```mermaid
